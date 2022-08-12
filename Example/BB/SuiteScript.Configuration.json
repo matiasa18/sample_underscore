@@ -1,0 +1,7 @@
+{
+  "paths": {
+    "_": "/SuiteScripts/BB/Utils/underscore"
+  },
+  "shim": {
+  }
+}
